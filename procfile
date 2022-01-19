@@ -1,4 +1,4 @@
 worker: python3 main.py
 worker: SI.json
-worker: Language.json
+worker: Language.js
 worker: vote_poll.js
