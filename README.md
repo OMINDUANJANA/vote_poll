@@ -4,4 +4,7 @@ worker: SI.json
 worker: Language.js
 worker: vote_poll.js
 
-https://heroku.com/deploy?template=https://github.com/DarkKingbot/My-Covid-Bot.git
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkKingbot/My-Covid-Bot.git)
+
+
+
